@@ -1,0 +1,6 @@
+.navbar {display: flex; justify-content: flex-end;}
+
+.titre {display: flex; justify-content: center; font-size: 46px; font-weight: bold; margin: 100px;}
+.titre1 {display: flex; justify-content: center; font-size: 36px; font-weight: bold; margin: 100px;}
+.image {display: flex; justify-content: center; margin-left: 450px;}
+body {background-color: rgb(244, 244, 244);}
